@@ -5,6 +5,4 @@ node_modules
 node_modules/*
 typings/*
 .idea/vcs.xml
-public/images/
-public/javascripts/
 typings/
